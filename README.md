@@ -1,3 +1,6 @@
+#### The project repository has been moved [here](https://github.com/opencitations/oc_graphenricher)
+----
+
 <p align="center">
 
   <h2 align="center">GraphEnricher</h3>
